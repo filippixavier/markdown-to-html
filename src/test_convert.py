@@ -24,7 +24,7 @@ This is **bolded** paragraph
 text in a p
 tag here
 
-This is another paragraph with *italic* text and `code` here
+This is another paragraph with _italic_ text and `code` here
 
 """
 
